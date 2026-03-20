@@ -2,33 +2,38 @@
   
 # Hi!
   
-### \ (^_^) / 
+**\ (^_^) /** 
 
 **I'm txmpold and I'm an aspiring Front-end developer with weird niche hobbies.**
+
+##  
+
 </div>
 
----
 
-### Currently
+### 🔎 Currently
 
 
 - 🎓 Studying Front-end development at Medieinstitutet in Gothenburg
 - 🔗 Learning Svelte
 - 📷 Into black & white photography
 
----
+##  
+
+
 ### 🌱 Hobbies
 
 - Homelabbing
 - Photography
-- Audiophile
+- Hi-fi
 - Keyboard builds
+- Pour-over coffee
 - Oh and I use Arch btw ☝️🤓
 <div align="center">
 
----
+##  
   
-### Techstack atm
+### Techstack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flatlogo=css3&logoColor=white)
@@ -50,3 +55,5 @@
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat&logo=adobelightroom&logoColor=white)
 
 </div>
+
+##  
