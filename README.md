@@ -49,6 +49,7 @@
 ![NPM ](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=flat) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=flat) 
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch-262626?style=flat&logo=archlinux&logoColor=1793D1)
 ![Neovim](https://img.shields.io/badge/Neovim-0075c9?style=flat&logo=neovim&logoColor=green)
 ![Photoshop](https://img.shields.io/badge/Photoshop-0075c9?style=flat&logo=adobephotoshop&logoColor=white)
