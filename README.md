@@ -4,7 +4,7 @@
   
 **\ (^_^) /** 
 
-**I'm txmpold and I'm an aspiring Front-end developer with weird niche hobbies.**
+**I'm txmpold and I'm an aspiring Front-end developer with weird hobbies.**
 
 ##  
 
