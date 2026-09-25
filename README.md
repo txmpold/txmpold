@@ -15,7 +15,7 @@
 
 
 - 🎓 Studying Front-end development at Medieinstitutet in Gothenburg
-- 🔗 Learning Svelte
+- 🔗 Learning NextJS
 - 📷 Into black & white photography
 
 ##  
