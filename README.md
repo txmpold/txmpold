@@ -17,6 +17,7 @@
 - 🎓 Studying Front-end development at Medieinstitutet in Gothenburg
 - 🔗 Learning NextJS
 - 📷 Into black & white photography
+- 🐧 Trying Arch + Hyprland
 
 ##  
 
@@ -28,7 +29,6 @@
 - Hi-fi
 - Keyboard builds
 - Pour-over coffee
-- Arch + Hyprland
 <div align="center">
 
 ##  
