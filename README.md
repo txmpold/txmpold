@@ -28,7 +28,7 @@
 - Hi-fi
 - Keyboard builds
 - Pour-over coffee
-- Oh and I use Arch btw ☝️🤓
+- Arch + Hyprland
 <div align="center">
 
 ##  
